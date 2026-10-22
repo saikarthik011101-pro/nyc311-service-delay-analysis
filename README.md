@@ -137,4 +137,4 @@ MySQL 8 · Python (pandas, SQLAlchemy, PyMySQL, matplotlib, seaborn) · Jupyter 
 
 ## Author
 
-**YOUR NAME** · [GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE)
+**Mididoddi Sai Karthik** · [GitHub](https://github.com/saikarthik011101-pro) · [LinkedIn](https://www.linkedin.com/in/sai-karthik-230290300))
