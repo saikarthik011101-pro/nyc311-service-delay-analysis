@@ -6,7 +6,7 @@ An end-to-end analysis of 3.65 million NYC 311 requests from 2025, built with **
 
 > Independent analysis of public NYC Open Data. Not affiliated with or endorsed by the City of New York.
 
-![Overview dashboard](dashboard/screenshots/page1_overview.png)
+![Overview dashboard](dashboard/screenshots/Screenshot 2026-10-22 150523.png)
 
 ---
 
@@ -23,7 +23,7 @@ An end-to-end analysis of 3.65 million NYC 311 requests from 2025, built with **
 
 Within HPD, focus inspection capacity first on Unsanitary Condition and Plumbing complaints in Manhattan and the Bronx, then Brooklyn. This is a recommendation about **where delay is concentrated**, not a staffing plan: the dataset has no staffing data.
 
-![Where the delay is](dashboard/screenshots/page2_where_delay_is.png)
+![Where the delay is](dashboard/screenshots/Screenshot 2026-10-22 150536.png)
 
 ---
 
@@ -106,7 +106,7 @@ Five pages: Overview, Where the delay is, HPD recommendation, Supporting finding
 
 | | |
 |---|---|
-| ![HPD](dashboard/screenshots/page3_hpd.png) | ![Supporting](dashboard/screenshots/page4_supporting.png) |
+| ![HPD](dashboard/screenshots/Screenshot 2026-10-22 150549.png) | ![Supporting](dashboard/screenshots/Screenshot 2026-10-22 150603.png) |
 
 A PDF export is in `dashboard/`.
 
